@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rebeccax06/react-admin/static/css/main.55b3d990.css",
+    "main.js": "/rebeccax06/react-admin/static/js/main.8d6aedc6.js",
+    "index.html": "/rebeccax06/react-admin/index.html",
+    "main.55b3d990.css.map": "/rebeccax06/react-admin/static/css/main.55b3d990.css.map",
+    "main.8d6aedc6.js.map": "/rebeccax06/react-admin/static/js/main.8d6aedc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55b3d990.css",
+    "static/js/main.8d6aedc6.js"
+  ]
+}
